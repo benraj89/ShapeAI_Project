@@ -1,0 +1,7 @@
+Enter the city name: muvattupuzha
+-------------------------------------------------------------
+Weather Stats for - MUVATTUPUZHA  || 23 Jun 2021 | 02:40:53 PM
+-------------------------------------------------------------
+Current temperature is: 27.78 deg C
+Current weather desc  : heavy intensity rain
+Current Humidity      : 95 %
